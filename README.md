@@ -1,10 +1,9 @@
 # Ecom-MERN
 
-# Front-End Port :- 3000
-
-# Back-End Port :- 8080
-
 ## Run Project Locally
+
+### Front-End Port :- 3000
+### Back-End Port :- 8080
 
 ### 1. Clone Repo
 
